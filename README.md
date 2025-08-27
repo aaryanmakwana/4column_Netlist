@@ -1,1 +1,1 @@
-the conversion script converts a regular ISCAC netlist into a new 4-column netlist. the aim is to reduce the file size of the netlist.
+This is a part of assignment in the course EVDT (Essentials of VLSI Design and Testing), a 5th semister subject of my B.Tech degree. the project proposes a new netlist format, the aim is to reduce the file size of the netlist. details of the working and logic is present in "ASSIGNMENT_REPORT.pdf".
